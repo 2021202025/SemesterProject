@@ -1,4 +1,4 @@
-# SNS Mini Project
+# Semester Project
 
 ### Setup
 - Must have python 3.x installed in system.
